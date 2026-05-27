@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.imghippo.com/i/roe4644Yk.jpeg" />
+<img width="1200" height="475" alt="CandyNodes Banner" src="https://img.sanishtech.com/u/c79c9979e90d2951d83b6551fd86475a.jpeg" alt="8da3058f015ab6cc51123326005db101" />
 </div>
 
 # A app by CandyNodes team
