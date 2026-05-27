@@ -8,6 +8,7 @@ This app contains panel for users of CandyNodes.
 
 Visit our discord for new updates and offer: https://discord.gg/YCRvewR3dn
 
+Visit our website for viewing server plans: https://candynodes.xyz/
 ## Run Locally
 
 **Prerequisites:**  [Android Studio](https://developer.android.com/studio)
