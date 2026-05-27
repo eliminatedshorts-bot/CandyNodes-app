@@ -2,11 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://www.imghippo.com/i/roe4644Yk.jpeg" />
 </div>
 
-# Run and deploy your AI Studio app
+# A app by CandyNodes team
 
-This contains everything you need to run your app locally.
+This app contains panel for users of CandyNodes.
 
-View your app in AI Studio: https://ai.studio/apps/51557669-da20-4fa9-8b01-2e7ff7d22a70
+Visit our discord for new updates and offer: https://discord.gg/YCRvewR3dn
 
 ## Run Locally
 
