@@ -1,0 +1,6 @@
+{
+  "name": "CandyNodes Game Panel",
+  "description": "Premium console portal application for CandyNodes Hosting, bringing easy Minecraft, custom bot, and VPS management to your mobile device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

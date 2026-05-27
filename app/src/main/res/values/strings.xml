@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CandyNodes Game Panel</string>
+    <string name="desc_back">Navigate back</string>
+    <string name="desc_forward">Navigate forward</string>
+    <string name="desc_refresh">Refresh page</string>
+    <string name="desc_home">Go to default portal</string>
+    <string name="desc_share">Share current link</string>
+    <string name="desc_desktop_mode">Toggle desktop user agent</string>
+    <string name="desc_menu">Open portal options</string>
+    <string name="error_offline_title">No internet connection</string>
+    <string name="error_offline_desc">It looks like youre offline. CandyNodes requires an active connection to manage your servers.</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="title_portals">Quick Portals</string>
+    <string name="title_custom_url">Enter Web Address</string>
+    <string name="placeholder_url">Search or type web address...</string>
+</resources>
