@@ -169,12 +169,8 @@ fun BrowserView(
         onRelease = { webView ->
             try {
                 webView.stopLoading()
-                webView.webViewClient = WebViewClient()
-                webView.webChromeClient = WebChromeClient()
-                webView.removeAllViews()
-                webView.destroy()
             } catch (e: Exception) {
-                // Ignore any native crashes during destroy
+                // Ignore
             }
             state.webViewInstance = null
         },
